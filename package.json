@@ -1,6 +1,6 @@
 {
   "name": "cpy-cjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Exposes the 'cpy' module as a cjs dependency",
   "main": "index.js",
   "keywords": [
